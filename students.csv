@@ -1,0 +1,16 @@
+id,name,created_at,updated_at,last_name,cohort,comment,address,city,zip,cell,email,guardian,guardian_cell,guardian_email,pod,school
+178,Kemo,2021-08-28 22:32:28.962821,2021-11-13 03:28:14.084008,Smith,Cohort9Black,,,,,5598478545,Kemo.Smith@hgs.hiddengeniusproject.org,,,,BRotation,Oakland Tech
+159,Aaron,2021-08-28 22:09:35.190795,2021-12-11 22:49:35.059259,Lazarus,Cohort9Black,,,,,4154246980,Aaron.Lazarus@hgs.hiddengeniusproject.org,,,,BRotation,
+160,Abdeali,2021-08-28 22:10:45.93795,2021-11-13 23:34:11.533054,Savai,Cohort9Black,,,,,5103836064,Abdeali.Savai@hgs.hiddengeniusproject.org,,,,BRotation,
+166,Dallas,2021-08-28 22:15:19.096226,2021-11-15 07:01:33.668736,Sanford,Cohort9Black,,,,,5103257331,Dallas.Sanford@hgs.hiddengeniusproject.org,,,,BRotation,
+163,Anthony G,2021-08-28 22:12:47.398062,2021-11-15 06:46:06.999763,Garcia,Cohort9Black,,,,,5102925660,Anthony G.Garcia@hgs.hiddengeniusproject.org,,,,BRotation,
+177,Josephr,2021-08-28 22:31:54.420457,2021-12-11 22:47:26.89659,Johnson,Cohort9Black,,,,,5103146955,Josephr.Johnson@hgs.hiddengeniusproject.org,,,,BRotation,
+179,Samuel,2021-08-28 22:33:05.063646,2021-11-13 23:53:13.221402,Yonas,Cohort9Black,,,,,5109497140,Samuel.Yonas@hgs.hiddengeniusproject.org,,,,BRotation,
+164,Ayo,2021-08-28 22:13:37.385404,2021-11-15 06:47:25.726769,Brame,Cohort9Black,,,,,5102820949,Ayo.Brame@hgs.hiddengeniusproject.org,,,,BRotation,
+167,Devin H,2021-08-28 22:16:03.076533,2021-11-15 07:02:38.306781,Haynes,Cohort9Black,,,,,5109340126,Devin H.Haynes@hgs.hiddengeniusproject.org,,,,BRotation,
+161,Adryan,2021-08-28 22:11:15.232816,2021-12-11 22:48:24.903916,Lacy,Cohort9Black,,,,,5109600040,Adryan.Lacy@hgs.hiddengeniusproject.org,,,,BRotation,
+168,Devin W,2021-08-28 22:16:31.546565,2021-11-14 23:35:06.176385,Wilson,Cohort9Black,,,,,5106976522,Devin W.Wilson@hgs.hiddengeniusproject.org,,,,BRotation,
+176,Jose,2021-08-28 22:31:22.718815,2021-12-11 22:47:55.118927,Alvarez,Cohort9Black,,,,,5106905447,Jose.Alvarez@hgs.hiddengeniusproject.org,,,,BRotation,Oakland Tech
+165,Cameron,2021-08-28 22:14:45.325012,2021-11-17 01:13:20.329607,Kochapum,Cohort9Black,,,,,5108497381,Cameron.Kochapum@hgs.hiddengeniusproject.org,,,,BRotation,Berean Christian High
+162,Amari,2021-08-28 22:11:44.332077,2021-12-11 22:48:38.105584,Anderson,Cohort9Black,,,,,5107755844,Amari.Anderson@hgs.hiddengeniusproject.org,,,,BRotation,
+169,Dominic,2021-08-28 22:17:03.372739,2021-11-14 00:50:32.112369,Smith,Cohort9Black,,,,,5104594499,Dominic.Smith@hgs.hiddengeniusproject.org,,,,BRotation,
